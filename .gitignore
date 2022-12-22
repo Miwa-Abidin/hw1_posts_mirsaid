@@ -1,0 +1,4 @@
+venv/
+.idea/
+.Ds_Store/
+db.sqlite3/
